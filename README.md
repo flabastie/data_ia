@@ -1,3 +1,3 @@
-### data_ia documentation project
+### data_ia doc project
 
 * [Home](https://github.com/flabastie/data_ia/wiki)

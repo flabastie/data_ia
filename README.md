@@ -1,3 +1,3 @@
 ### data_ia project
 
-=> wiki
+* [Home](https://github.com/flabastie/data_ia/wiki)
